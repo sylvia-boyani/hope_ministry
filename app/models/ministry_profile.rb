@@ -1,0 +1,2 @@
+class MinistryProfile < ApplicationRecord
+end

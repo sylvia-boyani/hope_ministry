@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  about: MyText
+  mission: MyText
+  vision: MyText
+  history: MyText
+
+two:
+  about: MyText
+  mission: MyText
+  vision: MyText
+  history: MyText
